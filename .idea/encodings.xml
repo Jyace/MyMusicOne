@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/Android/player/activity/FileExplorerActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/Android/player/activity/MainPlayActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/Android/player/activity/MainPlayActivityRoot.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/Android/player/activity/Menu.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/Android/player/activity/PlayListActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/Android/player/activity/PlaySetting.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/Android/player/common/MusicAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/Android/player/dao/DBHelper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/Android/player/dao/DBProvider.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/Android/player/dao/SystemService.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

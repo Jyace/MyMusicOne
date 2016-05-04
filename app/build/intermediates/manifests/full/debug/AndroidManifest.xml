@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.Android.player.activity"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="9"
+        android:targetSdkVersion="9" />
+
+    <uses-permission android:name="com.android.browser.permission.READ_HISTORY_BOOKMARKS" />
+
+    <application
+        android:icon="@drawable/itunesmusic"
+        android:label="@string/app_name" >
+        <activity
+            android:name="com.Android.player.activity.MainPlayActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.Android.player.activity.PlayListActivity" />
+
+        <provider
+            android:name="com.Android.player.dao.DBProvider"
+            android:authorities="MUSIC" />
+
+        <activity android:name="com.Android.player.activity.FileExplorerActivity" />
+        <activity android:name="com.Android.player.activity.Menu" />
+        <activity android:name="com.Android.player.activity.PlaySetting" />
+    </application>
+
+</manifest>

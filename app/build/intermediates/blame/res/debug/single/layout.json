@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\file_row.xml",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\layout\\file_row.xml"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\directory_list.xml",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\layout\\directory_list.xml"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setting.xml",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\layout\\setting.xml"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu.xml",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\layout\\menu.xml"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\play_list.xml",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\layout\\play_list.xml"
+    }
+]

@@ -1,0 +1,234 @@
+[
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\speaker13.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\speaker13.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\playpress.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\playpress.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\speaker5.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\speaker5.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backward.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\backward.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pausepress.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\pausepress.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\speaker0.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\speaker0.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\next.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\next.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buttonground.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\buttonground.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_bg.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\list_bg.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\father_file.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\father_file.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\itunespress.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\itunespress.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\music_file.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\music_file.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\speaker4.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\speaker4.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\speaker12.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\speaker12.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\picture_frame.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\picture_frame.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\folder_file.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\folder_file.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\seekbar.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wmppress.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\wmppress.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\itunes2.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\itunes2.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\forward.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\forward.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\speaker11.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\speaker11.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_style.xml",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\seekbar_style.xml"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\forwardpress.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\forwardpress.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_selected.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\list_item_selected.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\speaker17.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\speaker17.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\speaker2.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\speaker2.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\speaker14.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\speaker14.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\share.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stop.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\stop.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stoppress.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\stoppress.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.bmp",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\bg.bmp"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\speaker10.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\speaker10.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pause.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\pause.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_pressed.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\share_pressed.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\play.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\play.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\footer_bar.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\footer_bar.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\white.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\white.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\speaker8.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\speaker8.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\speaker16.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\speaker16.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\whitepress.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\whitepress.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_bg.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\list_item_bg.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\background.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\speaker15.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\speaker15.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wmp2.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\wmp2.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\listback.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\listback.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\speaker7.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\speaker7.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\music_icon.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\music_icon.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\thumb.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\thumb.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\speaker1.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\speaker1.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\speaker6.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\speaker6.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\speaker3.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\speaker3.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\speaker9.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\speaker9.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\itunesmusic.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\itunesmusic.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backwardpress.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\backwardpress.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back_pressed.png",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\back_pressed.png"
+    },
+    {
+        "merged": "F:\\workspace\\MyMusicOne1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_xml.xml",
+        "source": "F:\\workspace\\MyMusicOne1\\app\\src\\main\\res\\drawable\\list_item_xml.xml"
+    }
+]

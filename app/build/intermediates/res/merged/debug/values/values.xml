@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="blue">#3d59ab</color>
+    <color name="hui_black">#808a87</color>
+    <color name="white">#ffffff</color>
+    <color name="widget_title">#b22222</color>
+    <color name="x_black">#292421</color>
+    <dimen name="button_size">40px</dimen>
+    <dimen name="music_list_title">20px</dimen>
+    <dimen name="music_title">20px</dimen>
+    <dimen name="news_detail">16px</dimen>
+    <dimen name="news_item_title">19px</dimen>
+    <dimen name="text_size">18px</dimen>
+    <dimen name="text_size1">20px</dimen>
+    <dimen name="title">22px</dimen>
+    <dimen name="widget_title_size">20px</dimen>
+    <string name="app_name">音乐播放器</string>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="no_files">该目录为空</string>
+    <string name="to_top">[...]</string>
+</resources>
